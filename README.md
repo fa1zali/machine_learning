@@ -1,2 +1,2 @@
-# machine_learning
-A repo containing code, notebooks for ML.
+# Machine Learning
+A repo containing code, notebooks for Machine Learning.
