@@ -128,3 +128,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# zip files
+*.zip
+
+# datasets
+/5-data_collection_preprocessing/datasets/
