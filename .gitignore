@@ -134,3 +134,4 @@ dmypy.json
 
 # datasets
 /5-data_collection_preprocessing/datasets/
+/2-pandas/diabetes.csv
